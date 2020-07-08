@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-  <img src="_"/>
+  <img src="https://github.com/saymow/Twitter-clone/blob/master/.github/demonstration.png"/>
 </p>
 
 <br>
