@@ -17,7 +17,7 @@ export const Tab = styled.div`
   cursor: pointer;
 
   color: var(--twitter);
-  border-bottom: 2xp solid var(--twitter);
+  border-bottom: 2px solid var(--twitter);
 
   &:hover {
     background-color: var(--twitter-dark-hover);
